@@ -22,7 +22,7 @@
 	// Switch environment based on global var
 if (isset($_SERVER['PLATFORM']))
 {
-	echo 'maybe';
+	
     switch ($_SERVER['PLATFORM']) {
  
         case 'PAGODA':
@@ -30,6 +30,11 @@ if (isset($_SERVER['PLATFORM']))
             
         break;
     // add additional cases for more environments
+   
+        case 'PAGODA_TEST':
+            define('ENVIRONMENT', 'test');
+            
+        break;
     }
 }
 else
