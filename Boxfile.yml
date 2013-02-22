@@ -9,6 +9,7 @@ web1: #component type & number
     - mysql
     - gd
     - eaccelerator
+    - mysqli
      
 db1: #component type & number 
   name: bets            #component settings

@@ -65,6 +65,8 @@ $db['production']['swap_pre'] = '';
 $db['production']['autoinit'] = TRUE;
 $db['production']['stricton'] = FALSE;
 
+
+
 $db['development']['hostname'] = 'localhost';
 $db['development']['username'] = 'root';
 $db['development']['password'] = 'root';
