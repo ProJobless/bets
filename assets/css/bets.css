@@ -1,0 +1,82 @@
+body{
+	line-height: 16px;
+}
+
+#tabs{
+	margin-top:24px;
+}
+
+
+
+
+.challenge {
+border-bottom: 1px solid #E5E5E5;
+margin-bottom: 9px;
+}
+
+
+.btn-group {
+margin-bottom: 10px;
+}
+
+
+#bet-table_length, #bet-table_processing{
+	visibility: hidden;
+	display: none;
+}
+
+
+#bet-table tr td button {
+opacity: 0.3;
+}
+
+.btn-mini.active{
+opacity:1 !important; 
+}
+
+.bet_row {
+border: 1px solid #D0D0D0;
+border-radius: 3px 3px 0 0;
+-webkit-border-radius: 3px 3px 0 0;
+width: auto;
+padding: 15px 15px;
+min-height: 100px;
+}
+
+.status {
+text-align: right;
+font-size: .8em;
+text-transform: lowercase;
+color: #898C8D;
+min-height: 0px !important;
+width:100% !important;
+min-height: 0px;
+}
+
+.title{
+	float:left;
+	width:100% !important;
+	min-height: 0px !important;
+}
+
+.event-date{
+	font-size: .8em;
+color: #898C8D;
+width:100% !important;
+}
+
+.available_actions {
+float: right;
+bottom: 12px;
+position: relative;
+
+}
+
+.row-fluid {
+width: auto !important;
+}
+
+#new-bet{position: fixed;
+top: 37px;
+left: 95px;
+}}

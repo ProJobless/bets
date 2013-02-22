@@ -1,0 +1,45 @@
+<div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="display: none; ">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal" aria-hidden="true">�</button>
+              <h3 id="myModalLabel">New Bet</h3>
+            </div>
+            <div class="modal-body">
+             <form action='<?php echo base_url();?>bets/new' method='post' name='betFrom' id='betForm'>
+		 <div class="span3">
+		<h4>Against Who?</h4>
+					<?php 
+						$array = array();
+						foreach ($users as $user){
+							$array[]=$user;
+						}
+					?>
+					<input type="text" class="ui-autocomplete-input" name="against" id="userSelector">
+					</div>
+					 <div class="span3">
+					<h4>Name the bet</h4>
+					<input type="text" class="span3" name="name">
+					<h4>How do you win the bet?</h4>
+					<textarea name="detail" rows="3"></textarea>
+					</div>
+					<div class="span3">
+					 <div class="control-group">
+						<h4 class="control-label" for="wagerYou">You are wagering</h4>
+						<div class="controls">
+						  <input name="wagerYou" type="text" id="wagerYou" placeholder="$">
+						</div>
+					  </div>
+					  <div class="control-group">
+						<h4 class="control-label" for="wagerThem">They are wagering</h4>
+						<div class="controls">
+						  
+						  
+						  </div>
+						</div>
+					
+            </div>
+            <div class="modal-footer">
+               <input type="text" id="wagerThem" name="wagerThem" placeholder="$"></div>
+						  <input type='Submit' value='Create' class='btn btn-primary'/>	
+						  </form>
+            </div>
+          </div>
