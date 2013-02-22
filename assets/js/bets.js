@@ -189,16 +189,16 @@ function buildTable(url){
         "fnDrawCallback": function(){
 	  		       		initializeButtons();     
         },
-        "aaSorting": [[ 0, "desc" ]],
+        "aaSorting": [[ 1, "desc" ]],
           "aoColumns": [
-            /*{
+            {
                "mDataProp": null,
                "sClass": "control center",
                "sDefaultContent": '<span class="icon" id="icon-plus"></span>'
-            },*/
+            },
             { "mDataProp": function(source,type,val){
             var d = Date.parse(source['updated']);
-            return d.toString('M/d/yyyy');
+            return d.toString('M/dd/yyyy');
             }
             
             },
