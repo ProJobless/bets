@@ -9,7 +9,7 @@
 		<thead>
 			
 			<tr>
-				<th></th>
+				<th>Updated</th>
 				<th>Status</th>
 				<th>Title</th>
 				<th>Against</th>

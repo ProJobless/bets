@@ -154,7 +154,7 @@ class bets extends CI_Controller{
 										$this->load->view('json_message',$data);
 									} else {
 									foreach($r as $bet){
-										$json[] = array('status'=>$bet['status'],'title'=>$bet['title'],'opponent_name'=>$bet['opponent_name'],'message'=>$bet['message'],'actions'=>$bet['actions']);
+										$json[] = array('updated'=>$bet['updated'],'status'=>$bet['status'],'title'=>$bet['title'],'opponent_name'=>$bet['opponent_name'],'message'=>$bet['message'],'actions'=>$bet['actions']);
 								
 										}
 						

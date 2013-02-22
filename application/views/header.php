@@ -30,7 +30,7 @@
     <script src="/assets/js/jquery.js"></script>
     <script src="assets/js/jquery-ui-1.10.1.custom.js"></script>
     <script src="assets/js/bootstrap.js"></script>
-		
+		<script src="assets/js/date.js"></script>
 		<script src="assets/js/jquery.dataTables.js"></script>
 		<script src="assets/js/DT_bootstrap.js"></script>
 		<script type="text/javascript" src="/assets/js/noty/jquery.noty.js"></script>

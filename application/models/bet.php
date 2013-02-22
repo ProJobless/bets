@@ -637,7 +637,7 @@ log_message('debug', 'Open bet param: ' . $this->input->post('open-bet'));
 	public function get_recent_activity($num_of_bets){
 		$where = "(user2 =  '".  $this->session->userdata('userid') . "' OR challenger = '" .  $this->session->userdata('userid') . "')";
 		$this->db->where($where);
-		$this->db->order_by("last_action","asc");
+		$this->db->order_by("last_action","desc");
 		$this->db->limit($num_of_bets);
 				
 		$query = $this->db->get('bets');

@@ -24,29 +24,7 @@ function resetForm($form) {
          .removeAttr('checked').removeAttr('selected');
 }
 
-/* attach a submit handler to the form */
-  $("#betForm").submit(function(event) {
 
-    /* stop form from submitting normally */
-    event.preventDefault(); 
-
-    /* Send the data using post and put the results in a div */
-    $.post( 'bets/create', $('form#betForm').serialize(), function(data) {
-			var text = data['result'];
-			if( text == 'Bet Created')
-			{
-				generateNoty('success',text);
-				resetForm($('#betForm'));
-				$('#newBet').modal('hide')
-			}
-			else{
-				generateNoty('error',text);
-			}
-			
-       },
-       'json' // I expect a JSON response
-    );
-  });
 
 //instantiate the global variable for the table
 var oTable;
@@ -211,43 +189,25 @@ function buildTable(url){
         "fnDrawCallback": function(){
 	  		       		initializeButtons();     
         },
+        "aaSorting": [[ 0, "desc" ]],
           "aoColumns": [
-            {
+            /*{
                "mDataProp": null,
                "sClass": "control center",
                "sDefaultContent": '<span class="icon" id="icon-plus"></span>'
+            },*/
+            { "mDataProp": function(source,type,val){
+            var d = Date.parse(source['updated']);
+            return d.toString('M/d/yyyy');
+            }
+            
             },
             { "mDataProp": "status" },
             { "mDataProp": "title" },
             { "mDataProp": "opponent_name" },
             { "mDataProp": "message" },
             { "mDataProp": function (source, type, val) {
-            				
-            				/*
-			            		for(i=0;i < source.length;i++){
-			            			bet = source['aaData'][i];
-				            		if(bet['actions'].length > 0){
-				            			for(j=0; j < bet['actions'].length;j++){
-           			
-				            				
-							            		var ret = '<button id="';
-							            		ret = ret + bet['actions'][j]['id'];
-							            		ret = ret + '" name="';
-							            		ret = ret + bet['actions'][j]['name'];
-							            		ret = ret +'" class="btn btn-mini ';
-							            		ret = ret + bet['actions'][j]['class'].toLowerCase();
-							            		ret = ret + ' ';
-							            		ret = ret + ((bet['actions'][j]['active'] != undefined ) ? (bet['actions'][j]['active'] ? 'active' : '' ) : '');
-							            		ret = ret+'">';
-							            		ret = ret+bet['actions'][j]['name'];
-							            		ret = ret+'</button>';
-					           				}
-							           				return ret;
-							           				}
-					           			return null;
-					           		
-					           	}
-					           	*/
+            	
 						           	if(source['actions'].length > 0){
 								            			for(j=0; j < source['actions'].length;j++){
 				           			
