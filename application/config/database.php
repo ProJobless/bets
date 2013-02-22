@@ -48,6 +48,8 @@
 
 $active_record = TRUE;
 
+if(ENVIRONMENT == 'production'){
+
 $db['production']['hostname'] = $_SERVER["DB1_PATH"];
 $db['production']['username'] = $_SERVER["DB1_USER"];
 $db['production']['password'] = $_SERVER["DB1_PASSWORD"];
@@ -65,7 +67,7 @@ $db['production']['swap_pre'] = '';
 $db['production']['autoinit'] = TRUE;
 $db['production']['stricton'] = FALSE;
 
-
+}
 
 $db['development']['hostname'] = 'localhost';
 $db['development']['username'] = 'root';

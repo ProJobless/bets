@@ -4,17 +4,17 @@
               <h3 id="myModalLabel">New Bet</h3>
             </div>
             <div class="modal-body">
-             <form class="form-horizontal" action='<?php echo base_url();?>bets/new' method='post' name='betFrom' id='betForm'>
+             <form class="form-horizontal" name='betFrom' id='betForm'>
              <input type='hidden' name='open-bet' value='true' id='open-bet'/>
 	        <div class="control-group">
 						<label class="control-label">Against Who?</label>
 						
 							<div class="controls">
 								
-								<div class="btn-group" data-toggle="buttons-radio">
-  <button type="button" id="open-challenge" class="btn active">Open Challenge</button>
-  <button type="button" id="challenge-user" class="btn">Challenge a User</button>
-</div>
+							<div class="btn-group" data-toggle="buttons-radio">
+							  <button type="button" id="open-challenge" class="btn active">Open Challenge</button>
+							  <button type="button" id="challenge-user" class="btn">Challenge a User</button>
+							</div>
 							</div>
 					</div>
 					<div class="control-group" id="user-select" style="display:none;">
@@ -116,5 +116,29 @@
           	$(function() {
         $( "#datepicker" ).datepicker();
     });
+    
+    /* attach a submit handler to the form */
+  $("#betForm").submit(function(event) {
+
+    /* stop form from submitting normally */
+    event.preventDefault(); 
+
+    /* Send the data using post and put the results in a div */
+    $.post( 'bets/create', $('form#betForm').serialize(), function(data) {
+			var text = data['result'];
+			if( text == 'Bet Created')
+			{
+				generateNoty('success',text);
+				resetForm($('#betForm'));
+				$('#newBet').modal('hide')
+			}
+			else{
+				generateNoty('error',text);
+			}
+			
+       },
+       'json' // I expect a JSON response
+    );
+  });
           </script>
 </div>

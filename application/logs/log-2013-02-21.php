@@ -4292,3 +4292,1652 @@ DEBUG - 2013-02-21 20:46:55 --> UTF-8 Support Enabled
 DEBUG - 2013-02-21 20:46:55 --> URI Class Initialized
 DEBUG - 2013-02-21 20:46:55 --> Router Class Initialized
 ERROR - 2013-02-21 20:46:55 --> 404 Page Not Found --> assets
+DEBUG - 2013-02-21 23:19:48 --> Config Class Initialized
+DEBUG - 2013-02-21 23:19:48 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:19:48 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:19:48 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:19:48 --> URI Class Initialized
+DEBUG - 2013-02-21 23:19:48 --> Router Class Initialized
+DEBUG - 2013-02-21 23:19:48 --> No URI present. Default controller set.
+DEBUG - 2013-02-21 23:19:48 --> Output Class Initialized
+DEBUG - 2013-02-21 23:19:48 --> Security Class Initialized
+DEBUG - 2013-02-21 23:19:48 --> Input Class Initialized
+DEBUG - 2013-02-21 23:19:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:19:48 --> Language Class Initialized
+DEBUG - 2013-02-21 23:19:48 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:19:48 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:19:48 --> Helper loaded: url_helper
+ERROR - 2013-02-21 23:19:48 --> Severity: Notice  --> Undefined index: DB1_PATH /Users/parasteve/Documents/Dropbox/Dev/www/bets/application/config/database.php 51
+ERROR - 2013-02-21 23:19:48 --> Severity: Notice  --> Undefined index: DB1_USER /Users/parasteve/Documents/Dropbox/Dev/www/bets/application/config/database.php 52
+ERROR - 2013-02-21 23:19:48 --> Severity: Notice  --> Undefined index: DB1_PASSWORD /Users/parasteve/Documents/Dropbox/Dev/www/bets/application/config/database.php 53
+ERROR - 2013-02-21 23:19:48 --> Severity: Notice  --> Undefined index: DB1_NAME /Users/parasteve/Documents/Dropbox/Dev/www/bets/application/config/database.php 54
+ERROR - 2013-02-21 23:19:48 --> Severity: Notice  --> Undefined index: DB1_PORT /Users/parasteve/Documents/Dropbox/Dev/www/bets/application/config/database.php 55
+DEBUG - 2013-02-21 23:19:48 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:19:48 --> Session Class Initialized
+DEBUG - 2013-02-21 23:19:48 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:19:48 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:19:48 --> A session cookie was not found.
+ERROR - 2013-02-21 23:19:48 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/parasteve/Documents/Dropbox/Dev/www/bets/system/core/Exceptions.php:185) /Users/parasteve/Documents/Dropbox/Dev/www/bets/system/libraries/Session.php 675
+DEBUG - 2013-02-21 23:19:48 --> Session routines successfully run
+DEBUG - 2013-02-21 23:19:48 --> Model Class Initialized
+DEBUG - 2013-02-21 23:19:48 --> Model Class Initialized
+DEBUG - 2013-02-21 23:19:48 --> Model Class Initialized
+DEBUG - 2013-02-21 23:19:48 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:19:48 --> landing\index
+DEBUG - 2013-02-21 23:19:48 --> didnt validate
+ERROR - 2013-02-21 23:19:48 --> Severity: Notice  --> Undefined variable: users /Users/parasteve/Documents/Dropbox/Dev/www/bets/application/views/newBet.php 24
+ERROR - 2013-02-21 23:19:48 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/parasteve/Documents/Dropbox/Dev/www/bets/application/views/newBet.php 24
+ERROR - 2013-02-21 23:19:48 --> Severity: Notice  --> Undefined variable: users /Users/parasteve/Documents/Dropbox/Dev/www/bets/application/views/newBet.php 32
+DEBUG - 2013-02-21 23:19:48 --> File loaded: application/views/newBet.php
+DEBUG - 2013-02-21 23:19:48 --> File loaded: application/views/header.php
+ERROR - 2013-02-21 23:19:48 --> Severity: Notice  --> ob_end_clean(): failed to delete buffer. No buffer to delete /Users/parasteve/Documents/Dropbox/Dev/www/bets/system/core/Loader.php 863
+DEBUG - 2013-02-21 23:19:48 --> File loaded: application/views/landing.php
+DEBUG - 2013-02-21 23:19:48 --> File loaded: application/views/footer.php
+DEBUG - 2013-02-21 23:19:48 --> File loaded: application/views/template.php
+ERROR - 2013-02-21 23:19:48 --> Severity: Notice  --> ob_end_clean(): failed to delete buffer. No buffer to delete /Users/parasteve/Documents/Dropbox/Dev/www/bets/system/core/Loader.php 863
+DEBUG - 2013-02-21 23:19:48 --> Final output sent to browser
+DEBUG - 2013-02-21 23:19:48 --> Total execution time: 0.0559
+DEBUG - 2013-02-21 23:22:47 --> Config Class Initialized
+DEBUG - 2013-02-21 23:22:47 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:22:47 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:22:47 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:22:47 --> URI Class Initialized
+DEBUG - 2013-02-21 23:22:47 --> Router Class Initialized
+DEBUG - 2013-02-21 23:22:47 --> Output Class Initialized
+DEBUG - 2013-02-21 23:22:47 --> Security Class Initialized
+DEBUG - 2013-02-21 23:22:47 --> Input Class Initialized
+DEBUG - 2013-02-21 23:22:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:22:47 --> Language Class Initialized
+DEBUG - 2013-02-21 23:22:47 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:22:47 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:22:47 --> Helper loaded: url_helper
+ERROR - 2013-02-21 23:22:47 --> Severity: Notice  --> Undefined index: DB1_PATH /Users/parasteve/Documents/Dropbox/Dev/www/bets/application/config/database.php 51
+ERROR - 2013-02-21 23:22:47 --> Severity: Notice  --> Undefined index: DB1_USER /Users/parasteve/Documents/Dropbox/Dev/www/bets/application/config/database.php 52
+ERROR - 2013-02-21 23:22:47 --> Severity: Notice  --> Undefined index: DB1_PASSWORD /Users/parasteve/Documents/Dropbox/Dev/www/bets/application/config/database.php 53
+ERROR - 2013-02-21 23:22:47 --> Severity: Notice  --> Undefined index: DB1_NAME /Users/parasteve/Documents/Dropbox/Dev/www/bets/application/config/database.php 54
+ERROR - 2013-02-21 23:22:47 --> Severity: Notice  --> Undefined index: DB1_PORT /Users/parasteve/Documents/Dropbox/Dev/www/bets/application/config/database.php 55
+DEBUG - 2013-02-21 23:22:47 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:22:47 --> Session Class Initialized
+DEBUG - 2013-02-21 23:22:47 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:22:47 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:22:47 --> A session cookie was not found.
+ERROR - 2013-02-21 23:22:47 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/parasteve/Documents/Dropbox/Dev/www/bets/system/core/Exceptions.php:185) /Users/parasteve/Documents/Dropbox/Dev/www/bets/system/libraries/Session.php 675
+DEBUG - 2013-02-21 23:22:47 --> Session routines successfully run
+DEBUG - 2013-02-21 23:22:47 --> Model Class Initialized
+DEBUG - 2013-02-21 23:22:47 --> Model Class Initialized
+DEBUG - 2013-02-21 23:22:47 --> Model Class Initialized
+DEBUG - 2013-02-21 23:22:47 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:22:47 --> XSS Filtering completed
+DEBUG - 2013-02-21 23:22:47 --> XSS Filtering completed
+ERROR - 2013-02-21 23:22:47 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/parasteve/Documents/Dropbox/Dev/www/bets/system/core/Exceptions.php:185) /Users/parasteve/Documents/Dropbox/Dev/www/bets/system/libraries/Session.php 675
+ERROR - 2013-02-21 23:22:47 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/parasteve/Documents/Dropbox/Dev/www/bets/system/core/Exceptions.php:185) /Users/parasteve/Documents/Dropbox/Dev/www/bets/system/helpers/url_helper.php 542
+DEBUG - 2013-02-21 23:24:13 --> Config Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:24:13 --> URI Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Router Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Output Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Security Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Input Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:24:13 --> Language Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:24:13 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:24:13 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Session Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:24:13 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> A session cookie was not found.
+DEBUG - 2013-02-21 23:24:13 --> Session routines successfully run
+DEBUG - 2013-02-21 23:24:13 --> Model Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Model Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Model Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> XSS Filtering completed
+DEBUG - 2013-02-21 23:24:13 --> XSS Filtering completed
+DEBUG - 2013-02-21 23:24:13 --> Config Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:24:13 --> URI Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Router Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Output Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Security Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Input Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:24:13 --> Language Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:24:13 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:24:13 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Session Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:24:13 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Session routines successfully run
+DEBUG - 2013-02-21 23:24:13 --> Model Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Model Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Model Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:24:13 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 25
+DEBUG - 2013-02-21 23:24:13 --> the number of rows are 14
+DEBUG - 2013-02-21 23:24:13 --> File loaded: application/views/newBet.php
+DEBUG - 2013-02-21 23:24:13 --> File loaded: application/views/header.php
+DEBUG - 2013-02-21 23:24:13 --> File loaded: application/views/bet_table.php
+DEBUG - 2013-02-21 23:24:13 --> File loaded: application/views/user_home.php
+DEBUG - 2013-02-21 23:24:13 --> File loaded: application/views/footer.php
+DEBUG - 2013-02-21 23:24:13 --> File loaded: application/views/template.php
+DEBUG - 2013-02-21 23:24:13 --> Final output sent to browser
+DEBUG - 2013-02-21 23:24:13 --> Total execution time: 0.0348
+DEBUG - 2013-02-21 23:24:13 --> Config Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:24:13 --> URI Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Router Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Output Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Security Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Input Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:24:13 --> Language Class Initialized
+DEBUG - 2013-02-21 23:24:13 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:24:14 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:24:14 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:24:14 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:24:14 --> Session Class Initialized
+DEBUG - 2013-02-21 23:24:14 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:24:14 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:24:14 --> Session routines successfully run
+DEBUG - 2013-02-21 23:24:14 --> Model Class Initialized
+DEBUG - 2013-02-21 23:24:14 --> Model Class Initialized
+DEBUG - 2013-02-21 23:24:14 --> Model Class Initialized
+DEBUG - 2013-02-21 23:24:14 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:24:14 --> json
+DEBUG - 2013-02-21 23:24:14 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:24:14 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 100
+DEBUG - 2013-02-21 23:24:14 --> the number of rows are 14
+DEBUG - 2013-02-21 23:24:14 --> File loaded: application/views/json_message.php
+DEBUG - 2013-02-21 23:24:14 --> Final output sent to browser
+DEBUG - 2013-02-21 23:24:14 --> Total execution time: 0.0689
+DEBUG - 2013-02-21 23:24:14 --> Config Class Initialized
+DEBUG - 2013-02-21 23:24:14 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:24:14 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:24:14 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:24:14 --> URI Class Initialized
+DEBUG - 2013-02-21 23:24:14 --> Router Class Initialized
+DEBUG - 2013-02-21 23:24:14 --> Output Class Initialized
+DEBUG - 2013-02-21 23:24:14 --> Security Class Initialized
+DEBUG - 2013-02-21 23:24:14 --> Input Class Initialized
+DEBUG - 2013-02-21 23:24:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:24:14 --> Language Class Initialized
+DEBUG - 2013-02-21 23:24:14 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:24:14 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:24:14 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:24:14 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:24:14 --> Session Class Initialized
+DEBUG - 2013-02-21 23:24:14 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:24:14 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:24:14 --> Session routines successfully run
+DEBUG - 2013-02-21 23:24:14 --> Model Class Initialized
+DEBUG - 2013-02-21 23:24:14 --> Model Class Initialized
+DEBUG - 2013-02-21 23:24:14 --> Model Class Initialized
+DEBUG - 2013-02-21 23:24:14 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:24:14 --> json
+DEBUG - 2013-02-21 23:24:14 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:24:14 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 100
+DEBUG - 2013-02-21 23:24:14 --> the number of rows are 14
+DEBUG - 2013-02-21 23:24:14 --> File loaded: application/views/json_message.php
+DEBUG - 2013-02-21 23:24:14 --> Final output sent to browser
+DEBUG - 2013-02-21 23:24:14 --> Total execution time: 0.0187
+DEBUG - 2013-02-21 23:24:14 --> Config Class Initialized
+DEBUG - 2013-02-21 23:24:14 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:24:14 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:24:14 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:24:14 --> URI Class Initialized
+DEBUG - 2013-02-21 23:24:14 --> Router Class Initialized
+ERROR - 2013-02-21 23:24:14 --> 404 Page Not Found --> assets
+DEBUG - 2013-02-21 23:24:36 --> Config Class Initialized
+DEBUG - 2013-02-21 23:24:36 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:24:36 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:24:36 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:24:36 --> URI Class Initialized
+DEBUG - 2013-02-21 23:24:36 --> Router Class Initialized
+DEBUG - 2013-02-21 23:24:36 --> Output Class Initialized
+DEBUG - 2013-02-21 23:24:36 --> Security Class Initialized
+DEBUG - 2013-02-21 23:24:36 --> Input Class Initialized
+DEBUG - 2013-02-21 23:24:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:24:36 --> Language Class Initialized
+DEBUG - 2013-02-21 23:24:36 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:24:36 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:24:36 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:24:36 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:24:36 --> Session Class Initialized
+DEBUG - 2013-02-21 23:24:36 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:24:36 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:24:36 --> Session routines successfully run
+DEBUG - 2013-02-21 23:24:36 --> Model Class Initialized
+DEBUG - 2013-02-21 23:24:36 --> Model Class Initialized
+DEBUG - 2013-02-21 23:24:36 --> Model Class Initialized
+DEBUG - 2013-02-21 23:24:36 --> Controller Class Initialized
+ERROR - 2013-02-21 23:24:36 --> 404 Page Not Found --> bets/new
+DEBUG - 2013-02-21 23:24:38 --> Config Class Initialized
+DEBUG - 2013-02-21 23:24:38 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:24:38 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:24:38 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:24:38 --> URI Class Initialized
+DEBUG - 2013-02-21 23:24:38 --> Router Class Initialized
+DEBUG - 2013-02-21 23:24:38 --> Output Class Initialized
+DEBUG - 2013-02-21 23:24:38 --> Security Class Initialized
+DEBUG - 2013-02-21 23:24:38 --> Input Class Initialized
+DEBUG - 2013-02-21 23:24:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:24:38 --> Language Class Initialized
+DEBUG - 2013-02-21 23:24:38 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:24:38 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:24:38 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:24:38 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:24:38 --> Session Class Initialized
+DEBUG - 2013-02-21 23:24:38 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:24:38 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:24:38 --> Session routines successfully run
+DEBUG - 2013-02-21 23:24:38 --> Model Class Initialized
+DEBUG - 2013-02-21 23:24:38 --> Model Class Initialized
+DEBUG - 2013-02-21 23:24:38 --> Model Class Initialized
+DEBUG - 2013-02-21 23:24:38 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:24:38 --> json
+DEBUG - 2013-02-21 23:24:38 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:24:38 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 100
+DEBUG - 2013-02-21 23:24:38 --> the number of rows are 14
+DEBUG - 2013-02-21 23:24:38 --> File loaded: application/views/json_message.php
+DEBUG - 2013-02-21 23:24:38 --> Final output sent to browser
+DEBUG - 2013-02-21 23:24:38 --> Total execution time: 0.0254
+DEBUG - 2013-02-21 23:26:25 --> Config Class Initialized
+DEBUG - 2013-02-21 23:26:25 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:26:25 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:26:25 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:26:25 --> URI Class Initialized
+DEBUG - 2013-02-21 23:26:25 --> Router Class Initialized
+DEBUG - 2013-02-21 23:26:25 --> Output Class Initialized
+DEBUG - 2013-02-21 23:26:25 --> Security Class Initialized
+DEBUG - 2013-02-21 23:26:25 --> Input Class Initialized
+DEBUG - 2013-02-21 23:26:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:26:25 --> Language Class Initialized
+DEBUG - 2013-02-21 23:26:25 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:26:25 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:26:25 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:26:25 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:26:25 --> Session Class Initialized
+DEBUG - 2013-02-21 23:26:25 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:26:25 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:26:25 --> Session routines successfully run
+DEBUG - 2013-02-21 23:26:25 --> Model Class Initialized
+DEBUG - 2013-02-21 23:26:25 --> Model Class Initialized
+DEBUG - 2013-02-21 23:26:25 --> Model Class Initialized
+DEBUG - 2013-02-21 23:26:25 --> Controller Class Initialized
+ERROR - 2013-02-21 23:26:25 --> 404 Page Not Found --> bets/new
+DEBUG - 2013-02-21 23:26:28 --> Config Class Initialized
+DEBUG - 2013-02-21 23:26:28 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:26:28 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:26:28 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:26:28 --> URI Class Initialized
+DEBUG - 2013-02-21 23:26:28 --> Router Class Initialized
+DEBUG - 2013-02-21 23:26:28 --> Output Class Initialized
+DEBUG - 2013-02-21 23:26:28 --> Security Class Initialized
+DEBUG - 2013-02-21 23:26:28 --> Input Class Initialized
+DEBUG - 2013-02-21 23:26:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:26:28 --> Language Class Initialized
+DEBUG - 2013-02-21 23:26:28 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:26:28 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:26:28 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:26:28 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:26:28 --> Session Class Initialized
+DEBUG - 2013-02-21 23:26:28 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:26:28 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:26:28 --> Session routines successfully run
+DEBUG - 2013-02-21 23:26:28 --> Model Class Initialized
+DEBUG - 2013-02-21 23:26:28 --> Model Class Initialized
+DEBUG - 2013-02-21 23:26:28 --> Model Class Initialized
+DEBUG - 2013-02-21 23:26:28 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:26:28 --> json
+DEBUG - 2013-02-21 23:26:28 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:26:28 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 100
+DEBUG - 2013-02-21 23:26:28 --> the number of rows are 14
+DEBUG - 2013-02-21 23:26:28 --> File loaded: application/views/json_message.php
+DEBUG - 2013-02-21 23:26:28 --> Final output sent to browser
+DEBUG - 2013-02-21 23:26:28 --> Total execution time: 0.0253
+DEBUG - 2013-02-21 23:27:02 --> Config Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:27:02 --> URI Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Router Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Output Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Security Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Input Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:27:02 --> Language Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:27:02 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:27:02 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Session Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:27:02 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Session routines successfully run
+DEBUG - 2013-02-21 23:27:02 --> Model Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Model Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Model Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:27:02 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 25
+DEBUG - 2013-02-21 23:27:02 --> the number of rows are 14
+DEBUG - 2013-02-21 23:27:02 --> File loaded: application/views/newBet.php
+DEBUG - 2013-02-21 23:27:02 --> File loaded: application/views/header.php
+DEBUG - 2013-02-21 23:27:02 --> File loaded: application/views/bet_table.php
+DEBUG - 2013-02-21 23:27:02 --> File loaded: application/views/user_home.php
+DEBUG - 2013-02-21 23:27:02 --> File loaded: application/views/footer.php
+DEBUG - 2013-02-21 23:27:02 --> File loaded: application/views/template.php
+DEBUG - 2013-02-21 23:27:02 --> Final output sent to browser
+DEBUG - 2013-02-21 23:27:02 --> Total execution time: 0.0233
+DEBUG - 2013-02-21 23:27:02 --> Config Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:27:02 --> URI Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Router Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Output Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Security Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Input Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:27:02 --> Language Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:27:02 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:27:02 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Session Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:27:02 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Session routines successfully run
+DEBUG - 2013-02-21 23:27:02 --> Model Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Model Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Model Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> json
+DEBUG - 2013-02-21 23:27:02 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:27:02 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 100
+DEBUG - 2013-02-21 23:27:02 --> the number of rows are 14
+DEBUG - 2013-02-21 23:27:02 --> File loaded: application/views/json_message.php
+DEBUG - 2013-02-21 23:27:02 --> Final output sent to browser
+DEBUG - 2013-02-21 23:27:02 --> Total execution time: 0.0159
+DEBUG - 2013-02-21 23:27:02 --> Config Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:27:02 --> URI Class Initialized
+DEBUG - 2013-02-21 23:27:02 --> Router Class Initialized
+ERROR - 2013-02-21 23:27:02 --> 404 Page Not Found --> assets
+DEBUG - 2013-02-21 23:27:17 --> Config Class Initialized
+DEBUG - 2013-02-21 23:27:17 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:27:17 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:27:17 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:27:17 --> URI Class Initialized
+DEBUG - 2013-02-21 23:27:17 --> Router Class Initialized
+DEBUG - 2013-02-21 23:27:17 --> Output Class Initialized
+DEBUG - 2013-02-21 23:27:17 --> Security Class Initialized
+DEBUG - 2013-02-21 23:27:17 --> Input Class Initialized
+DEBUG - 2013-02-21 23:27:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:27:17 --> Language Class Initialized
+DEBUG - 2013-02-21 23:27:17 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:27:17 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:27:17 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:27:17 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:27:17 --> Session Class Initialized
+DEBUG - 2013-02-21 23:27:17 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:27:17 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:27:17 --> Session routines successfully run
+DEBUG - 2013-02-21 23:27:17 --> Model Class Initialized
+DEBUG - 2013-02-21 23:27:17 --> Model Class Initialized
+DEBUG - 2013-02-21 23:27:17 --> Model Class Initialized
+DEBUG - 2013-02-21 23:27:17 --> Controller Class Initialized
+ERROR - 2013-02-21 23:27:17 --> 404 Page Not Found --> bets/new
+DEBUG - 2013-02-21 23:27:19 --> Config Class Initialized
+DEBUG - 2013-02-21 23:27:19 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:27:19 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:27:19 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:27:19 --> URI Class Initialized
+DEBUG - 2013-02-21 23:27:19 --> Router Class Initialized
+DEBUG - 2013-02-21 23:27:19 --> Output Class Initialized
+DEBUG - 2013-02-21 23:27:19 --> Security Class Initialized
+DEBUG - 2013-02-21 23:27:19 --> Input Class Initialized
+DEBUG - 2013-02-21 23:27:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:27:19 --> Language Class Initialized
+DEBUG - 2013-02-21 23:27:19 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:27:19 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:27:19 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:27:19 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:27:19 --> Session Class Initialized
+DEBUG - 2013-02-21 23:27:19 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:27:19 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:27:19 --> Session routines successfully run
+DEBUG - 2013-02-21 23:27:19 --> Model Class Initialized
+DEBUG - 2013-02-21 23:27:19 --> Model Class Initialized
+DEBUG - 2013-02-21 23:27:19 --> Model Class Initialized
+DEBUG - 2013-02-21 23:27:19 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:27:19 --> json
+DEBUG - 2013-02-21 23:27:19 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:27:19 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 100
+DEBUG - 2013-02-21 23:27:19 --> the number of rows are 14
+DEBUG - 2013-02-21 23:27:19 --> File loaded: application/views/json_message.php
+DEBUG - 2013-02-21 23:27:19 --> Final output sent to browser
+DEBUG - 2013-02-21 23:27:19 --> Total execution time: 0.0217
+DEBUG - 2013-02-21 23:27:53 --> Config Class Initialized
+DEBUG - 2013-02-21 23:27:53 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:27:53 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:27:53 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:27:53 --> URI Class Initialized
+DEBUG - 2013-02-21 23:27:53 --> Router Class Initialized
+DEBUG - 2013-02-21 23:27:53 --> Output Class Initialized
+DEBUG - 2013-02-21 23:27:53 --> Security Class Initialized
+DEBUG - 2013-02-21 23:27:53 --> Input Class Initialized
+DEBUG - 2013-02-21 23:27:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:27:53 --> Language Class Initialized
+DEBUG - 2013-02-21 23:27:53 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:27:53 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:27:53 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:27:53 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:27:53 --> Session Class Initialized
+DEBUG - 2013-02-21 23:27:53 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:27:53 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:27:53 --> Session routines successfully run
+DEBUG - 2013-02-21 23:27:53 --> Model Class Initialized
+DEBUG - 2013-02-21 23:27:53 --> Model Class Initialized
+DEBUG - 2013-02-21 23:27:53 --> Model Class Initialized
+DEBUG - 2013-02-21 23:27:53 --> Controller Class Initialized
+ERROR - 2013-02-21 23:27:53 --> 404 Page Not Found --> bets/new
+DEBUG - 2013-02-21 23:27:56 --> Config Class Initialized
+DEBUG - 2013-02-21 23:27:56 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:27:56 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:27:56 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:27:56 --> URI Class Initialized
+DEBUG - 2013-02-21 23:27:56 --> Router Class Initialized
+DEBUG - 2013-02-21 23:27:56 --> Output Class Initialized
+DEBUG - 2013-02-21 23:27:56 --> Security Class Initialized
+DEBUG - 2013-02-21 23:27:56 --> Input Class Initialized
+DEBUG - 2013-02-21 23:27:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:27:56 --> Language Class Initialized
+DEBUG - 2013-02-21 23:27:56 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:27:56 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:27:56 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:27:56 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:27:56 --> Session Class Initialized
+DEBUG - 2013-02-21 23:27:56 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:27:56 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:27:56 --> Session routines successfully run
+DEBUG - 2013-02-21 23:27:56 --> Model Class Initialized
+DEBUG - 2013-02-21 23:27:56 --> Model Class Initialized
+DEBUG - 2013-02-21 23:27:56 --> Model Class Initialized
+DEBUG - 2013-02-21 23:27:56 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:27:56 --> json
+DEBUG - 2013-02-21 23:27:56 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:27:56 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 100
+DEBUG - 2013-02-21 23:27:56 --> the number of rows are 14
+DEBUG - 2013-02-21 23:27:56 --> File loaded: application/views/json_message.php
+DEBUG - 2013-02-21 23:27:56 --> Final output sent to browser
+DEBUG - 2013-02-21 23:27:56 --> Total execution time: 0.0200
+DEBUG - 2013-02-21 23:28:31 --> Config Class Initialized
+DEBUG - 2013-02-21 23:28:31 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:28:31 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:28:31 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:28:31 --> URI Class Initialized
+DEBUG - 2013-02-21 23:28:31 --> Router Class Initialized
+DEBUG - 2013-02-21 23:28:31 --> Output Class Initialized
+DEBUG - 2013-02-21 23:28:31 --> Security Class Initialized
+DEBUG - 2013-02-21 23:28:31 --> Input Class Initialized
+DEBUG - 2013-02-21 23:28:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:28:31 --> Language Class Initialized
+DEBUG - 2013-02-21 23:28:31 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:28:31 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:28:31 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:28:31 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:28:31 --> Session Class Initialized
+DEBUG - 2013-02-21 23:28:31 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:28:31 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:28:31 --> Session routines successfully run
+DEBUG - 2013-02-21 23:28:31 --> Model Class Initialized
+DEBUG - 2013-02-21 23:28:31 --> Model Class Initialized
+DEBUG - 2013-02-21 23:28:31 --> Model Class Initialized
+DEBUG - 2013-02-21 23:28:31 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:28:31 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:28:31 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 25
+DEBUG - 2013-02-21 23:28:31 --> the number of rows are 14
+DEBUG - 2013-02-21 23:28:31 --> File loaded: application/views/newBet.php
+DEBUG - 2013-02-21 23:28:31 --> File loaded: application/views/header.php
+DEBUG - 2013-02-21 23:28:31 --> File loaded: application/views/bet_table.php
+DEBUG - 2013-02-21 23:28:31 --> File loaded: application/views/user_home.php
+DEBUG - 2013-02-21 23:28:31 --> File loaded: application/views/footer.php
+DEBUG - 2013-02-21 23:28:31 --> File loaded: application/views/template.php
+DEBUG - 2013-02-21 23:28:31 --> Final output sent to browser
+DEBUG - 2013-02-21 23:28:31 --> Total execution time: 0.0246
+DEBUG - 2013-02-21 23:28:32 --> Config Class Initialized
+DEBUG - 2013-02-21 23:28:32 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:28:32 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:28:32 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:28:32 --> URI Class Initialized
+DEBUG - 2013-02-21 23:28:32 --> Router Class Initialized
+DEBUG - 2013-02-21 23:28:32 --> Output Class Initialized
+DEBUG - 2013-02-21 23:28:32 --> Security Class Initialized
+DEBUG - 2013-02-21 23:28:32 --> Input Class Initialized
+DEBUG - 2013-02-21 23:28:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:28:32 --> Language Class Initialized
+DEBUG - 2013-02-21 23:28:32 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:28:32 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:28:32 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:28:32 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:28:32 --> Session Class Initialized
+DEBUG - 2013-02-21 23:28:32 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:28:32 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:28:32 --> Session routines successfully run
+DEBUG - 2013-02-21 23:28:32 --> Model Class Initialized
+DEBUG - 2013-02-21 23:28:32 --> Model Class Initialized
+DEBUG - 2013-02-21 23:28:32 --> Model Class Initialized
+DEBUG - 2013-02-21 23:28:32 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:28:32 --> json
+DEBUG - 2013-02-21 23:28:32 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:28:32 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 100
+DEBUG - 2013-02-21 23:28:32 --> the number of rows are 14
+DEBUG - 2013-02-21 23:28:32 --> File loaded: application/views/json_message.php
+DEBUG - 2013-02-21 23:28:32 --> Final output sent to browser
+DEBUG - 2013-02-21 23:28:32 --> Total execution time: 0.0654
+DEBUG - 2013-02-21 23:28:32 --> Config Class Initialized
+DEBUG - 2013-02-21 23:28:32 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:28:32 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:28:32 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:28:32 --> URI Class Initialized
+DEBUG - 2013-02-21 23:28:32 --> Router Class Initialized
+ERROR - 2013-02-21 23:28:32 --> 404 Page Not Found --> assets
+DEBUG - 2013-02-21 23:28:40 --> Config Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:28:40 --> URI Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Router Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Output Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Security Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Input Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:28:40 --> Language Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:28:40 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:28:40 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Session Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:28:40 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Session routines successfully run
+DEBUG - 2013-02-21 23:28:40 --> Model Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Model Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Model Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:28:40 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 25
+DEBUG - 2013-02-21 23:28:40 --> the number of rows are 14
+DEBUG - 2013-02-21 23:28:40 --> File loaded: application/views/newBet.php
+DEBUG - 2013-02-21 23:28:40 --> File loaded: application/views/header.php
+DEBUG - 2013-02-21 23:28:40 --> File loaded: application/views/bet_table.php
+DEBUG - 2013-02-21 23:28:40 --> File loaded: application/views/user_home.php
+DEBUG - 2013-02-21 23:28:40 --> File loaded: application/views/footer.php
+DEBUG - 2013-02-21 23:28:40 --> File loaded: application/views/template.php
+DEBUG - 2013-02-21 23:28:40 --> Final output sent to browser
+DEBUG - 2013-02-21 23:28:40 --> Total execution time: 0.0200
+DEBUG - 2013-02-21 23:28:40 --> Config Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:28:40 --> URI Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Router Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Output Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Security Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Input Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:28:40 --> Language Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:28:40 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:28:40 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Session Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:28:40 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Session routines successfully run
+DEBUG - 2013-02-21 23:28:40 --> Model Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Model Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Model Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> json
+DEBUG - 2013-02-21 23:28:40 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:28:40 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 100
+DEBUG - 2013-02-21 23:28:40 --> the number of rows are 14
+DEBUG - 2013-02-21 23:28:40 --> File loaded: application/views/json_message.php
+DEBUG - 2013-02-21 23:28:40 --> Final output sent to browser
+DEBUG - 2013-02-21 23:28:40 --> Total execution time: 0.0185
+DEBUG - 2013-02-21 23:28:40 --> Config Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:28:40 --> URI Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Router Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Output Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Security Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Input Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:28:40 --> Language Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:28:40 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:28:40 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Session Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:28:40 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Session routines successfully run
+DEBUG - 2013-02-21 23:28:40 --> Model Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Model Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Model Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> json
+DEBUG - 2013-02-21 23:28:40 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:28:40 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 100
+DEBUG - 2013-02-21 23:28:40 --> the number of rows are 14
+DEBUG - 2013-02-21 23:28:40 --> File loaded: application/views/json_message.php
+DEBUG - 2013-02-21 23:28:40 --> Final output sent to browser
+DEBUG - 2013-02-21 23:28:40 --> Total execution time: 0.0169
+DEBUG - 2013-02-21 23:28:40 --> Config Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:28:40 --> URI Class Initialized
+DEBUG - 2013-02-21 23:28:40 --> Router Class Initialized
+ERROR - 2013-02-21 23:28:40 --> 404 Page Not Found --> assets
+DEBUG - 2013-02-21 23:28:49 --> Config Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:28:49 --> URI Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Router Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Output Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Security Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Input Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:28:49 --> Language Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:28:49 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:28:49 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Session Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:28:49 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Session routines successfully run
+DEBUG - 2013-02-21 23:28:49 --> Model Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Model Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Model Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> File loaded: application/views/newBet.php
+DEBUG - 2013-02-21 23:28:49 --> File loaded: application/views/header.php
+DEBUG - 2013-02-21 23:28:49 --> File loaded: application/views/bet_table.php
+DEBUG - 2013-02-21 23:28:49 --> File loaded: application/views/browse_open_bets.php
+DEBUG - 2013-02-21 23:28:49 --> File loaded: application/views/footer.php
+DEBUG - 2013-02-21 23:28:49 --> File loaded: application/views/template.php
+DEBUG - 2013-02-21 23:28:49 --> Final output sent to browser
+DEBUG - 2013-02-21 23:28:49 --> Total execution time: 0.0129
+DEBUG - 2013-02-21 23:28:49 --> Config Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:28:49 --> URI Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Router Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Output Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Security Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Input Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:28:49 --> Language Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:28:49 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:28:49 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Session Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:28:49 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Session routines successfully run
+DEBUG - 2013-02-21 23:28:49 --> Model Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Model Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Model Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> json
+DEBUG - 2013-02-21 23:28:49 --> File loaded: application/views/json_message.php
+DEBUG - 2013-02-21 23:28:49 --> Final output sent to browser
+DEBUG - 2013-02-21 23:28:49 --> Total execution time: 0.0149
+DEBUG - 2013-02-21 23:28:49 --> Config Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:28:49 --> URI Class Initialized
+DEBUG - 2013-02-21 23:28:49 --> Router Class Initialized
+ERROR - 2013-02-21 23:28:49 --> 404 Page Not Found --> assets
+DEBUG - 2013-02-21 23:28:52 --> Config Class Initialized
+DEBUG - 2013-02-21 23:28:52 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:28:52 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:28:52 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:28:52 --> URI Class Initialized
+DEBUG - 2013-02-21 23:28:52 --> Router Class Initialized
+DEBUG - 2013-02-21 23:28:52 --> Output Class Initialized
+DEBUG - 2013-02-21 23:28:52 --> Security Class Initialized
+DEBUG - 2013-02-21 23:28:52 --> Input Class Initialized
+DEBUG - 2013-02-21 23:28:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:28:52 --> Language Class Initialized
+DEBUG - 2013-02-21 23:28:52 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:28:52 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:28:52 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:28:52 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:28:52 --> Session Class Initialized
+DEBUG - 2013-02-21 23:28:52 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:28:52 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:28:52 --> Session routines successfully run
+DEBUG - 2013-02-21 23:28:52 --> Model Class Initialized
+DEBUG - 2013-02-21 23:28:52 --> Model Class Initialized
+DEBUG - 2013-02-21 23:28:52 --> Model Class Initialized
+DEBUG - 2013-02-21 23:28:52 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:28:52 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:28:52 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 25
+DEBUG - 2013-02-21 23:28:52 --> the number of rows are 14
+DEBUG - 2013-02-21 23:28:52 --> File loaded: application/views/newBet.php
+DEBUG - 2013-02-21 23:28:52 --> File loaded: application/views/header.php
+DEBUG - 2013-02-21 23:28:52 --> File loaded: application/views/bet_table.php
+DEBUG - 2013-02-21 23:28:52 --> File loaded: application/views/user_home.php
+DEBUG - 2013-02-21 23:28:52 --> File loaded: application/views/footer.php
+DEBUG - 2013-02-21 23:28:52 --> File loaded: application/views/template.php
+DEBUG - 2013-02-21 23:28:52 --> Final output sent to browser
+DEBUG - 2013-02-21 23:28:52 --> Total execution time: 0.0202
+DEBUG - 2013-02-21 23:28:53 --> Config Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:28:53 --> URI Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Router Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Output Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Security Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Input Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:28:53 --> Language Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:28:53 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:28:53 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Session Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:28:53 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Session routines successfully run
+DEBUG - 2013-02-21 23:28:53 --> Model Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Model Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Model Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> json
+DEBUG - 2013-02-21 23:28:53 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:28:53 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 100
+DEBUG - 2013-02-21 23:28:53 --> the number of rows are 14
+DEBUG - 2013-02-21 23:28:53 --> File loaded: application/views/json_message.php
+DEBUG - 2013-02-21 23:28:53 --> Final output sent to browser
+DEBUG - 2013-02-21 23:28:53 --> Total execution time: 0.0189
+DEBUG - 2013-02-21 23:28:53 --> Config Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:28:53 --> URI Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Router Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Output Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Security Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Input Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:28:53 --> Language Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:28:53 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:28:53 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Session Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:28:53 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Session routines successfully run
+DEBUG - 2013-02-21 23:28:53 --> Model Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Model Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Model Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> json
+DEBUG - 2013-02-21 23:28:53 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:28:53 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 100
+DEBUG - 2013-02-21 23:28:53 --> the number of rows are 14
+DEBUG - 2013-02-21 23:28:53 --> File loaded: application/views/json_message.php
+DEBUG - 2013-02-21 23:28:53 --> Final output sent to browser
+DEBUG - 2013-02-21 23:28:53 --> Total execution time: 0.0174
+DEBUG - 2013-02-21 23:28:53 --> Config Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:28:53 --> URI Class Initialized
+DEBUG - 2013-02-21 23:28:53 --> Router Class Initialized
+ERROR - 2013-02-21 23:28:53 --> 404 Page Not Found --> assets
+DEBUG - 2013-02-21 23:29:19 --> Config Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:29:19 --> URI Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Router Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Output Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Security Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Input Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:29:19 --> Language Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:29:19 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:29:19 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Session Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:29:19 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Session routines successfully run
+DEBUG - 2013-02-21 23:29:19 --> Model Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Model Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Model Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:29:19 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 25
+DEBUG - 2013-02-21 23:29:19 --> the number of rows are 14
+DEBUG - 2013-02-21 23:29:19 --> File loaded: application/views/newBet.php
+DEBUG - 2013-02-21 23:29:19 --> File loaded: application/views/header.php
+DEBUG - 2013-02-21 23:29:19 --> File loaded: application/views/bet_table.php
+DEBUG - 2013-02-21 23:29:19 --> File loaded: application/views/user_home.php
+DEBUG - 2013-02-21 23:29:19 --> File loaded: application/views/footer.php
+DEBUG - 2013-02-21 23:29:19 --> File loaded: application/views/template.php
+DEBUG - 2013-02-21 23:29:19 --> Final output sent to browser
+DEBUG - 2013-02-21 23:29:19 --> Total execution time: 0.0254
+DEBUG - 2013-02-21 23:29:19 --> Config Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:29:19 --> URI Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Router Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Output Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Security Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Input Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:29:19 --> Language Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:29:19 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:29:19 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Session Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:29:19 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Session routines successfully run
+DEBUG - 2013-02-21 23:29:19 --> Model Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Model Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Model Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> json
+DEBUG - 2013-02-21 23:29:19 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:29:19 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 100
+DEBUG - 2013-02-21 23:29:19 --> the number of rows are 14
+DEBUG - 2013-02-21 23:29:19 --> File loaded: application/views/json_message.php
+DEBUG - 2013-02-21 23:29:19 --> Final output sent to browser
+DEBUG - 2013-02-21 23:29:19 --> Total execution time: 0.0212
+DEBUG - 2013-02-21 23:29:19 --> Config Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:29:19 --> URI Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Router Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Output Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Security Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Input Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:29:19 --> Language Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:29:19 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:29:19 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Session Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:29:19 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Session routines successfully run
+DEBUG - 2013-02-21 23:29:19 --> Model Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Model Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Model Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:29:19 --> json
+DEBUG - 2013-02-21 23:29:19 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:29:19 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 100
+DEBUG - 2013-02-21 23:29:19 --> the number of rows are 14
+DEBUG - 2013-02-21 23:29:19 --> File loaded: application/views/json_message.php
+DEBUG - 2013-02-21 23:29:19 --> Final output sent to browser
+DEBUG - 2013-02-21 23:29:19 --> Total execution time: 0.0171
+DEBUG - 2013-02-21 23:29:20 --> Config Class Initialized
+DEBUG - 2013-02-21 23:29:20 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:29:20 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:29:20 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:29:20 --> URI Class Initialized
+DEBUG - 2013-02-21 23:29:20 --> Router Class Initialized
+ERROR - 2013-02-21 23:29:20 --> 404 Page Not Found --> assets
+DEBUG - 2013-02-21 23:31:07 --> Config Class Initialized
+DEBUG - 2013-02-21 23:31:07 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:31:07 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:31:07 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:31:07 --> URI Class Initialized
+DEBUG - 2013-02-21 23:31:07 --> Router Class Initialized
+DEBUG - 2013-02-21 23:31:07 --> Output Class Initialized
+DEBUG - 2013-02-21 23:31:07 --> Security Class Initialized
+DEBUG - 2013-02-21 23:31:07 --> Input Class Initialized
+DEBUG - 2013-02-21 23:31:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:31:07 --> Language Class Initialized
+DEBUG - 2013-02-21 23:31:07 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:31:07 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:31:07 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:31:07 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:31:07 --> Session Class Initialized
+DEBUG - 2013-02-21 23:31:07 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:31:07 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:31:07 --> Session routines successfully run
+DEBUG - 2013-02-21 23:31:07 --> Model Class Initialized
+DEBUG - 2013-02-21 23:31:07 --> Model Class Initialized
+DEBUG - 2013-02-21 23:31:07 --> Model Class Initialized
+DEBUG - 2013-02-21 23:31:07 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:31:07 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:31:07 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 25
+DEBUG - 2013-02-21 23:31:07 --> the number of rows are 14
+DEBUG - 2013-02-21 23:31:07 --> File loaded: application/views/newBet.php
+DEBUG - 2013-02-21 23:31:07 --> File loaded: application/views/header.php
+DEBUG - 2013-02-21 23:31:07 --> File loaded: application/views/bet_table.php
+DEBUG - 2013-02-21 23:31:07 --> File loaded: application/views/user_home.php
+DEBUG - 2013-02-21 23:31:07 --> File loaded: application/views/footer.php
+DEBUG - 2013-02-21 23:31:07 --> File loaded: application/views/template.php
+DEBUG - 2013-02-21 23:31:07 --> Final output sent to browser
+DEBUG - 2013-02-21 23:31:07 --> Total execution time: 0.0228
+DEBUG - 2013-02-21 23:31:08 --> Config Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:31:08 --> URI Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Router Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Output Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Security Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Input Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:31:08 --> Language Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:31:08 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:31:08 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Session Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:31:08 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Session routines successfully run
+DEBUG - 2013-02-21 23:31:08 --> Model Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Model Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Model Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> json
+DEBUG - 2013-02-21 23:31:08 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:31:08 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 100
+DEBUG - 2013-02-21 23:31:08 --> the number of rows are 14
+DEBUG - 2013-02-21 23:31:08 --> File loaded: application/views/json_message.php
+DEBUG - 2013-02-21 23:31:08 --> Final output sent to browser
+DEBUG - 2013-02-21 23:31:08 --> Total execution time: 0.0244
+DEBUG - 2013-02-21 23:31:08 --> Config Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:31:08 --> URI Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Router Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Output Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Security Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Input Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:31:08 --> Language Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:31:08 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:31:08 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Session Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:31:08 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Session routines successfully run
+DEBUG - 2013-02-21 23:31:08 --> Model Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Model Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Model Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> json
+DEBUG - 2013-02-21 23:31:08 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:31:08 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 100
+DEBUG - 2013-02-21 23:31:08 --> the number of rows are 14
+DEBUG - 2013-02-21 23:31:08 --> File loaded: application/views/json_message.php
+DEBUG - 2013-02-21 23:31:08 --> Final output sent to browser
+DEBUG - 2013-02-21 23:31:08 --> Total execution time: 0.0201
+DEBUG - 2013-02-21 23:31:08 --> Config Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:31:08 --> URI Class Initialized
+DEBUG - 2013-02-21 23:31:08 --> Router Class Initialized
+ERROR - 2013-02-21 23:31:08 --> 404 Page Not Found --> assets
+DEBUG - 2013-02-21 23:31:23 --> Config Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:31:23 --> URI Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Router Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Output Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Security Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Input Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:31:23 --> Language Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:31:23 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:31:23 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Session Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:31:23 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Session routines successfully run
+DEBUG - 2013-02-21 23:31:23 --> Model Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Model Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Model Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:31:23 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 25
+DEBUG - 2013-02-21 23:31:23 --> the number of rows are 14
+DEBUG - 2013-02-21 23:31:23 --> File loaded: application/views/newBet.php
+DEBUG - 2013-02-21 23:31:23 --> File loaded: application/views/header.php
+DEBUG - 2013-02-21 23:31:23 --> File loaded: application/views/bet_table.php
+DEBUG - 2013-02-21 23:31:23 --> File loaded: application/views/user_home.php
+DEBUG - 2013-02-21 23:31:23 --> File loaded: application/views/footer.php
+DEBUG - 2013-02-21 23:31:23 --> File loaded: application/views/template.php
+DEBUG - 2013-02-21 23:31:23 --> Final output sent to browser
+DEBUG - 2013-02-21 23:31:23 --> Total execution time: 0.0300
+DEBUG - 2013-02-21 23:31:23 --> Config Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:31:23 --> URI Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Router Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Output Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Security Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Input Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:31:23 --> Language Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:31:23 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:31:23 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Session Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:31:23 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Session routines successfully run
+DEBUG - 2013-02-21 23:31:23 --> Model Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Model Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Model Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> json
+DEBUG - 2013-02-21 23:31:23 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:31:23 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 100
+DEBUG - 2013-02-21 23:31:23 --> the number of rows are 14
+DEBUG - 2013-02-21 23:31:23 --> File loaded: application/views/json_message.php
+DEBUG - 2013-02-21 23:31:23 --> Final output sent to browser
+DEBUG - 2013-02-21 23:31:23 --> Total execution time: 0.0207
+DEBUG - 2013-02-21 23:31:23 --> Config Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:31:23 --> URI Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Router Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Output Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Security Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Input Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:31:23 --> Language Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:31:23 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:31:23 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Session Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:31:23 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Session routines successfully run
+DEBUG - 2013-02-21 23:31:23 --> Model Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Model Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Model Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> json
+DEBUG - 2013-02-21 23:31:23 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:31:23 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 100
+DEBUG - 2013-02-21 23:31:23 --> the number of rows are 14
+DEBUG - 2013-02-21 23:31:23 --> File loaded: application/views/json_message.php
+DEBUG - 2013-02-21 23:31:23 --> Final output sent to browser
+DEBUG - 2013-02-21 23:31:23 --> Total execution time: 0.0188
+DEBUG - 2013-02-21 23:31:23 --> Config Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:31:23 --> URI Class Initialized
+DEBUG - 2013-02-21 23:31:23 --> Router Class Initialized
+ERROR - 2013-02-21 23:31:23 --> 404 Page Not Found --> assets
+DEBUG - 2013-02-21 23:32:06 --> Config Class Initialized
+DEBUG - 2013-02-21 23:32:06 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:32:06 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:32:06 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:32:06 --> URI Class Initialized
+DEBUG - 2013-02-21 23:32:06 --> Router Class Initialized
+DEBUG - 2013-02-21 23:32:06 --> Output Class Initialized
+DEBUG - 2013-02-21 23:32:06 --> Security Class Initialized
+DEBUG - 2013-02-21 23:32:06 --> Input Class Initialized
+DEBUG - 2013-02-21 23:32:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:32:06 --> Language Class Initialized
+DEBUG - 2013-02-21 23:32:06 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:32:06 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:32:06 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:32:06 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:32:06 --> Session Class Initialized
+DEBUG - 2013-02-21 23:32:06 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:32:06 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:32:06 --> Session routines successfully run
+DEBUG - 2013-02-21 23:32:06 --> Model Class Initialized
+DEBUG - 2013-02-21 23:32:06 --> Model Class Initialized
+DEBUG - 2013-02-21 23:32:06 --> Model Class Initialized
+DEBUG - 2013-02-21 23:32:06 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:32:06 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:32:06 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 25
+DEBUG - 2013-02-21 23:32:06 --> the number of rows are 14
+DEBUG - 2013-02-21 23:32:06 --> File loaded: application/views/newBet.php
+DEBUG - 2013-02-21 23:32:06 --> File loaded: application/views/header.php
+DEBUG - 2013-02-21 23:32:06 --> File loaded: application/views/bet_table.php
+DEBUG - 2013-02-21 23:32:06 --> File loaded: application/views/user_home.php
+DEBUG - 2013-02-21 23:32:06 --> File loaded: application/views/footer.php
+DEBUG - 2013-02-21 23:32:06 --> File loaded: application/views/template.php
+DEBUG - 2013-02-21 23:32:06 --> Final output sent to browser
+DEBUG - 2013-02-21 23:32:06 --> Total execution time: 0.0208
+DEBUG - 2013-02-21 23:32:07 --> Config Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:32:07 --> URI Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Router Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Output Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Security Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Input Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:32:07 --> Language Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:32:07 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:32:07 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Session Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:32:07 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Session routines successfully run
+DEBUG - 2013-02-21 23:32:07 --> Model Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Model Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Model Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> json
+DEBUG - 2013-02-21 23:32:07 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:32:07 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 100
+DEBUG - 2013-02-21 23:32:07 --> the number of rows are 14
+DEBUG - 2013-02-21 23:32:07 --> File loaded: application/views/json_message.php
+DEBUG - 2013-02-21 23:32:07 --> Final output sent to browser
+DEBUG - 2013-02-21 23:32:07 --> Total execution time: 0.0263
+DEBUG - 2013-02-21 23:32:07 --> Config Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:32:07 --> URI Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Router Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Output Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Security Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Input Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:32:07 --> Language Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:32:07 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:32:07 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Session Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:32:07 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Session routines successfully run
+DEBUG - 2013-02-21 23:32:07 --> Model Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Model Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Model Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> json
+DEBUG - 2013-02-21 23:32:07 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:32:07 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 100
+DEBUG - 2013-02-21 23:32:07 --> the number of rows are 14
+DEBUG - 2013-02-21 23:32:07 --> File loaded: application/views/json_message.php
+DEBUG - 2013-02-21 23:32:07 --> Final output sent to browser
+DEBUG - 2013-02-21 23:32:07 --> Total execution time: 0.0202
+DEBUG - 2013-02-21 23:32:07 --> Config Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:32:07 --> URI Class Initialized
+DEBUG - 2013-02-21 23:32:07 --> Router Class Initialized
+ERROR - 2013-02-21 23:32:07 --> 404 Page Not Found --> assets
+DEBUG - 2013-02-21 23:32:16 --> Config Class Initialized
+DEBUG - 2013-02-21 23:32:16 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:32:16 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:32:16 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:32:16 --> URI Class Initialized
+DEBUG - 2013-02-21 23:32:16 --> Router Class Initialized
+DEBUG - 2013-02-21 23:32:16 --> Output Class Initialized
+DEBUG - 2013-02-21 23:32:16 --> Security Class Initialized
+DEBUG - 2013-02-21 23:32:16 --> Input Class Initialized
+DEBUG - 2013-02-21 23:32:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:32:16 --> Language Class Initialized
+DEBUG - 2013-02-21 23:32:16 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:32:16 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:32:16 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:32:16 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:32:16 --> Session Class Initialized
+DEBUG - 2013-02-21 23:32:16 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:32:16 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:32:16 --> Session routines successfully run
+DEBUG - 2013-02-21 23:32:16 --> Model Class Initialized
+DEBUG - 2013-02-21 23:32:16 --> Model Class Initialized
+DEBUG - 2013-02-21 23:32:16 --> Model Class Initialized
+DEBUG - 2013-02-21 23:32:16 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:32:16 --> Open bet param: true
+DEBUG - 2013-02-21 23:32:16 --> XSS Filtering completed
+DEBUG - 2013-02-21 23:32:16 --> XSS Filtering completed
+DEBUG - 2013-02-21 23:32:16 --> XSS Filtering completed
+DEBUG - 2013-02-21 23:32:16 --> XSS Filtering completed
+DEBUG - 2013-02-21 23:32:16 --> XSS Filtering completed
+DEBUG - 2013-02-21 23:32:16 --> 
+DEBUG - 2013-02-21 23:32:16 --> Open
+DEBUG - 2013-02-21 23:32:16 --> 
+DEBUG - 2013-02-21 23:32:16 --> File loaded: application/views/json_message.php
+DEBUG - 2013-02-21 23:32:16 --> Final output sent to browser
+DEBUG - 2013-02-21 23:32:16 --> Total execution time: 0.0128
+DEBUG - 2013-02-21 23:32:20 --> Config Class Initialized
+DEBUG - 2013-02-21 23:32:20 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:32:20 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:32:20 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:32:20 --> URI Class Initialized
+DEBUG - 2013-02-21 23:32:20 --> Router Class Initialized
+DEBUG - 2013-02-21 23:32:20 --> Output Class Initialized
+DEBUG - 2013-02-21 23:32:20 --> Security Class Initialized
+DEBUG - 2013-02-21 23:32:20 --> Input Class Initialized
+DEBUG - 2013-02-21 23:32:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:32:20 --> Language Class Initialized
+DEBUG - 2013-02-21 23:32:20 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:32:20 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:32:20 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:32:20 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:32:20 --> Session Class Initialized
+DEBUG - 2013-02-21 23:32:20 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:32:20 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:32:20 --> Session routines successfully run
+DEBUG - 2013-02-21 23:32:20 --> Model Class Initialized
+DEBUG - 2013-02-21 23:32:20 --> Model Class Initialized
+DEBUG - 2013-02-21 23:32:20 --> Model Class Initialized
+DEBUG - 2013-02-21 23:32:20 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:32:20 --> Open bet param: true
+DEBUG - 2013-02-21 23:32:20 --> XSS Filtering completed
+DEBUG - 2013-02-21 23:32:20 --> XSS Filtering completed
+DEBUG - 2013-02-21 23:32:20 --> XSS Filtering completed
+DEBUG - 2013-02-21 23:32:20 --> XSS Filtering completed
+DEBUG - 2013-02-21 23:32:20 --> XSS Filtering completed
+DEBUG - 2013-02-21 23:32:20 --> 
+DEBUG - 2013-02-21 23:32:20 --> Open
+DEBUG - 2013-02-21 23:32:20 --> 
+DEBUG - 2013-02-21 23:32:20 --> its an open bet
+DEBUG - 2013-02-21 23:32:20 --> INSERT INTO `bets` (`challenger`, `user2`, `title`, `conditions`, `user1_wager`, `user2_wager`, `updated`, `last_action`, `event_date`, `challenger_message`, `user2_message`) VALUES ('3', -1, '23', 'asdf', '123', '123', '2013:02:21 23:32:20', 'Bet created by Taco', NULL, 'Waiting for someone to accept your bet', 'Taco created a new open bet')
+DEBUG - 2013-02-21 23:32:20 --> File loaded: application/views/json_message.php
+DEBUG - 2013-02-21 23:32:20 --> Final output sent to browser
+DEBUG - 2013-02-21 23:32:20 --> Total execution time: 0.0255
+DEBUG - 2013-02-21 23:32:31 --> Config Class Initialized
+DEBUG - 2013-02-21 23:32:31 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:32:31 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:32:31 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:32:31 --> URI Class Initialized
+DEBUG - 2013-02-21 23:32:31 --> Router Class Initialized
+DEBUG - 2013-02-21 23:32:31 --> Output Class Initialized
+DEBUG - 2013-02-21 23:32:31 --> Security Class Initialized
+DEBUG - 2013-02-21 23:32:31 --> Input Class Initialized
+DEBUG - 2013-02-21 23:32:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:32:31 --> Language Class Initialized
+DEBUG - 2013-02-21 23:32:31 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:32:31 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:32:31 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:32:31 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:32:31 --> Session Class Initialized
+DEBUG - 2013-02-21 23:32:31 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:32:31 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:32:31 --> Session routines successfully run
+DEBUG - 2013-02-21 23:32:31 --> Model Class Initialized
+DEBUG - 2013-02-21 23:32:31 --> Model Class Initialized
+DEBUG - 2013-02-21 23:32:31 --> Model Class Initialized
+DEBUG - 2013-02-21 23:32:31 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:32:31 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:32:31 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 25
+DEBUG - 2013-02-21 23:32:31 --> the number of rows are 15
+DEBUG - 2013-02-21 23:32:31 --> File loaded: application/views/newBet.php
+DEBUG - 2013-02-21 23:32:31 --> File loaded: application/views/header.php
+DEBUG - 2013-02-21 23:32:31 --> File loaded: application/views/bet_table.php
+DEBUG - 2013-02-21 23:32:31 --> File loaded: application/views/user_home.php
+DEBUG - 2013-02-21 23:32:31 --> File loaded: application/views/footer.php
+DEBUG - 2013-02-21 23:32:31 --> File loaded: application/views/template.php
+DEBUG - 2013-02-21 23:32:31 --> Final output sent to browser
+DEBUG - 2013-02-21 23:32:31 --> Total execution time: 0.0196
+DEBUG - 2013-02-21 23:32:32 --> Config Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:32:32 --> URI Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Router Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Output Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Security Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Input Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:32:32 --> Language Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:32:32 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:32:32 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Session Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:32:32 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Session routines successfully run
+DEBUG - 2013-02-21 23:32:32 --> Model Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Model Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Model Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> json
+DEBUG - 2013-02-21 23:32:32 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:32:32 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 100
+DEBUG - 2013-02-21 23:32:32 --> the number of rows are 15
+DEBUG - 2013-02-21 23:32:32 --> File loaded: application/views/json_message.php
+DEBUG - 2013-02-21 23:32:32 --> Final output sent to browser
+DEBUG - 2013-02-21 23:32:32 --> Total execution time: 0.0247
+DEBUG - 2013-02-21 23:32:32 --> Config Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:32:32 --> URI Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Router Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Output Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Security Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Input Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:32:32 --> Language Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:32:32 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:32:32 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Session Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:32:32 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Session routines successfully run
+DEBUG - 2013-02-21 23:32:32 --> Model Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Model Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Model Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> json
+DEBUG - 2013-02-21 23:32:32 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:32:32 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 100
+DEBUG - 2013-02-21 23:32:32 --> the number of rows are 15
+DEBUG - 2013-02-21 23:32:32 --> File loaded: application/views/json_message.php
+DEBUG - 2013-02-21 23:32:32 --> Final output sent to browser
+DEBUG - 2013-02-21 23:32:32 --> Total execution time: 0.0213
+DEBUG - 2013-02-21 23:32:32 --> Config Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:32:32 --> URI Class Initialized
+DEBUG - 2013-02-21 23:32:32 --> Router Class Initialized
+ERROR - 2013-02-21 23:32:32 --> 404 Page Not Found --> assets
+DEBUG - 2013-02-21 23:33:22 --> Config Class Initialized
+DEBUG - 2013-02-21 23:33:22 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:33:22 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:33:22 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:33:22 --> URI Class Initialized
+DEBUG - 2013-02-21 23:33:22 --> Router Class Initialized
+DEBUG - 2013-02-21 23:33:22 --> Output Class Initialized
+DEBUG - 2013-02-21 23:33:22 --> Security Class Initialized
+DEBUG - 2013-02-21 23:33:22 --> Input Class Initialized
+DEBUG - 2013-02-21 23:33:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:33:22 --> Language Class Initialized
+DEBUG - 2013-02-21 23:33:22 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:33:22 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:33:22 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:33:22 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:33:22 --> Session Class Initialized
+DEBUG - 2013-02-21 23:33:22 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:33:22 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:33:22 --> Session routines successfully run
+DEBUG - 2013-02-21 23:33:22 --> Model Class Initialized
+DEBUG - 2013-02-21 23:33:22 --> Model Class Initialized
+DEBUG - 2013-02-21 23:33:22 --> Model Class Initialized
+DEBUG - 2013-02-21 23:33:22 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:33:22 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:33:22 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 25
+DEBUG - 2013-02-21 23:33:22 --> the number of rows are 15
+DEBUG - 2013-02-21 23:33:22 --> File loaded: application/views/newBet.php
+DEBUG - 2013-02-21 23:33:22 --> File loaded: application/views/header.php
+DEBUG - 2013-02-21 23:33:22 --> File loaded: application/views/bet_table.php
+DEBUG - 2013-02-21 23:33:22 --> File loaded: application/views/user_home.php
+DEBUG - 2013-02-21 23:33:22 --> File loaded: application/views/footer.php
+DEBUG - 2013-02-21 23:33:22 --> File loaded: application/views/template.php
+DEBUG - 2013-02-21 23:33:22 --> Final output sent to browser
+DEBUG - 2013-02-21 23:33:22 --> Total execution time: 0.0185
+DEBUG - 2013-02-21 23:33:23 --> Config Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:33:23 --> URI Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Router Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Output Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Security Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Input Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:33:23 --> Language Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:33:23 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:33:23 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Session Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:33:23 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Session routines successfully run
+DEBUG - 2013-02-21 23:33:23 --> Model Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Model Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Model Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> json
+DEBUG - 2013-02-21 23:33:23 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:33:23 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 100
+DEBUG - 2013-02-21 23:33:23 --> the number of rows are 15
+DEBUG - 2013-02-21 23:33:23 --> File loaded: application/views/json_message.php
+DEBUG - 2013-02-21 23:33:23 --> Final output sent to browser
+DEBUG - 2013-02-21 23:33:23 --> Total execution time: 0.0280
+DEBUG - 2013-02-21 23:33:23 --> Config Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Config Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Hooks Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Utf8 Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:33:23 --> UTF-8 Support Enabled
+DEBUG - 2013-02-21 23:33:23 --> URI Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> URI Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Router Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Router Class Initialized
+ERROR - 2013-02-21 23:33:23 --> 404 Page Not Found --> assets
+DEBUG - 2013-02-21 23:33:23 --> Output Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Security Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Input Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-21 23:33:23 --> Language Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Loader Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Helper loaded: debug_helper
+DEBUG - 2013-02-21 23:33:23 --> Helper loaded: url_helper
+DEBUG - 2013-02-21 23:33:23 --> Database Driver Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Session Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Helper loaded: string_helper
+DEBUG - 2013-02-21 23:33:23 --> Encrypt Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Session routines successfully run
+DEBUG - 2013-02-21 23:33:23 --> Model Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Model Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Model Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> Controller Class Initialized
+DEBUG - 2013-02-21 23:33:23 --> json
+DEBUG - 2013-02-21 23:33:23 --> the number of rows are Getting recent Activity
+DEBUG - 2013-02-21 23:33:23 --> SELECT *
+FROM (`bets`)
+WHERE (user2 = '3' OR challenger = '3')
+ORDER BY `last_action` asc
+LIMIT 100
+DEBUG - 2013-02-21 23:33:23 --> the number of rows are 15
+DEBUG - 2013-02-21 23:33:23 --> File loaded: application/views/json_message.php
+DEBUG - 2013-02-21 23:33:23 --> Final output sent to browser
+DEBUG - 2013-02-21 23:33:23 --> Total execution time: 0.0194
